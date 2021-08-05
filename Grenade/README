@@ -1,4 +1,4 @@
-The following placement of files, event, and int value will grant the local palyer the abiliity to throw with from an inventory limited by the initial value of <int grenade> 
+The following placement of files, event, and int value will grant the local palyer the abiliity to throw grenades from an inventory limited by the initial value of <int grenade> 
 parented to grenade.lua grenades:
 
 StarterPlayer/StarterPlayerScripts/grenade.lua
