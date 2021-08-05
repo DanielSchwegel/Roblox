@@ -18,7 +18,7 @@ local function throw(input, gameProcessed)
 			if keycode == Enum.KeyCode.F and script.Grenades.Value > 0 then
 				grenade_event:FireServer(mouse.Hit.p)
 				script.Grenades.Value -= 1
-				player.PlayerGui.AWPGuiTemplate.Grenades.Text = "Grenades: " ..script.Grenades.Value
+				--player.PlayerGui.AWPGuiTemplate.Grenades.Text = "Grenades: " ..script.Grenades.Value
 			end
 		end
 	end
